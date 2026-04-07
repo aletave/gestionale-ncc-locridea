@@ -4,7 +4,7 @@
 > Il sistema è in produzione e accessibile all'indirizzo: **[ncc.locridea.it](https://ncc.locridea.it)**
 >
 > 👨‍💻 **AUTORE E PROPRIETÀ INTELLETTUALE**
-> Questo gestionale è stato progettato e sviluppato da me come unico sviluppatore su commissione per *Locridea Transfer*, un'azienda reale operante nel settore NCC (Noleggio Con Conducente).
+> Questo gestionale è stato progettato e sviluppato da me come unico sviluppatore su commissione per *Locridea Viaggi*, un'azienda reale operante nel settore NCC (Noleggio Con Conducente).
 >
 > ⚠️ **AVVISO DI RISERVATEZZA E NDA**
 > Il codice sorgente dell'applicazione in produzione è coperto da NDA (Accordo di Non Divulgazione). Questo repository pubblico ha lo scopo di condividere le scelte architetturali e lo stack tecnologico adottato.
